@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="250" viewBox="0 0 880 250" role="img" aria-label="Andre Corugda &#8212; Senior Full-Stack Engineer">
+  <style>
+    .cursor { animation: blink 1.1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+    .glow { animation: pulse 4s ease-in-out infinite; }
+    @keyframes pulse { 0%,100% { opacity: .55; } 50% { opacity: 1; } }
+  </style>
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#f97316"/><stop offset=".5" stop-color="#a78bfa"/><stop offset="1" stop-color="#38bdf8"/>
+    </linearGradient>
+  </defs>
+  <rect x=".5" y=".5" width="879" height="249" rx="16" fill="#ffffff" stroke="#d0d7de"/>
+  <rect class="glow" x="1" y="1" width="878" height="4" rx="2" fill="url(#accent)"/>
+  <g font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="36" y="78" font-size="34" font-weight="700" fill="#1f2328">Andre Corugda</text>
+    <text x="36" y="110" font-size="16" fill="#59636e">Senior Full-Stack Engineer</text>
+    <text x="36" y="134" font-size="16" fill="#59636e">Product &amp; AI Architecture</text>
+    <text x="36" y="168" font-size="13" fill="#1f2328" font-weight="600">Creator of Burxt &#183; Apex JS &#183; Synapse</text>
+    <path d="M42 203a5 5 0 0 0-5 5c0 4 5 9 5 9s5-5 5-9a5 5 0 0 0-5-5z" fill="#59636e"/><circle cx="42" cy="208" r="1.8" fill="#ffffff"/>
+    <text x="52" y="214" font-size="12" fill="#59636e">Bacolod, Philippines &#183; Remote</text>
+  </g>
+  <rect x="360" y="34" width="490" height="182" rx="10" fill="#f6f8fa" stroke="#d0d7de"/>
+  <circle cx="380" cy="52" r="5" fill="#ff5f57"/><circle cx="397" cy="52" r="5" fill="#febc2e"/><circle cx="414" cy="52" r="5" fill="#28c840"/>
+  <text x="832" y="56" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11" fill="#59636e">andre.bx</text>
+  <g font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="13.5" transform="translate(380 88)">
+      <text x="0" y="0" xml:space="preserve"><tspan fill="#cf222e">function</tspan><tspan fill="#1f2328"> (self) </tspan><tspan fill="#8250df">andre</tspan><tspan fill="#1f2328">() -&gt; </tspan><tspan fill="#0550ae">Engineer</tspan></text>
+      <text x="0" y="24" xml:space="preserve"><tspan fill="#1f2328">    </tspan><tspan fill="#cf222e">requires</tspan><tspan fill="#1f2328"> years &gt;= </tspan><tspan fill="#0550ae">9</tspan><tspan fill="#6e7781">      // 7 classic, 2 AI-native</tspan></text>
+      <text x="0" y="48" xml:space="preserve"><tspan fill="#1f2328">    </tspan><tspan fill="#cf222e">touches</tspan><tspan fill="#1f2328">  laravel, react, rust, azure, aws</tspan></text>
+      <text x="0" y="72" xml:space="preserve"><tspan fill="#1f2328">    </tspan><tspan fill="#cf222e">touches</tspan><tspan fill="#1f2328">  llm, mcp, agents</tspan></text>
+      <text x="0" y="96" xml:space="preserve"><tspan fill="#1f2328">    </tspan><tspan fill="#cf222e">refuses</tspan><tspan fill="#1f2328">  quiet_mistakes</tspan></text>
+      <text x="0" y="120" xml:space="preserve"><tspan fill="#1f2328">{ </tspan><tspan fill="#cf222e">return</tspan><tspan fill="#1f2328"> </tspan><tspan fill="#8250df">ship</tspan><tspan fill="#1f2328">(products); }</tspan></text>
+    <rect class="cursor" x="211.9" y="110" width="8" height="16" fill="#1f2328"/>
+  </g>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="170" viewBox="0 0 420 170" role="img" aria-label="BMX &#8212; Burxt Markup Language">
+  <rect x=".5" y=".5" width="419" height="169" rx="14" fill="#0d1117" stroke="#30363d"/>
+  <rect x="1" y="14" width="4" height="40" rx="2" fill="#a78bfa"/>
+  <g font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <circle cx="30" cy="34" r="6" fill="#a78bfa"/>
+    <text x="44" y="40" font-size="19" font-weight="700" fill="#e6edf3">BMX</text>
+    <text x="24" y="66" font-size="12.5" font-weight="600" fill="#a78bfa">Burxt Markup Language</text>
+    <text x="24" y="92" font-size="13" fill="#8b949e">Markdown with one reading and a typed hole.</text>
+    <text x="24" y="110" font-size="13" fill="#8b949e">It refuses to be nearly right.</text>
+    <rect x="24" y="128" width="58" height="22" rx="11" fill="#161b22" stroke="#30363d"/>
+    <text x="53" y="143" text-anchor="middle" font-size="11" fill="#8b949e">Markup</text>
+    <rect x="88" y="128" width="84" height="22" rx="11" fill="#161b22" stroke="#30363d"/>
+    <text x="130" y="143" text-anchor="middle" font-size="11" fill="#8b949e">JavaScript</text>
+    <rect x="178" y="128" width="137" height="22" rx="11" fill="#161b22" stroke="#30363d"/>
+    <text x="246.5" y="143" text-anchor="middle" font-size="11" fill="#8b949e">bmx.burxt-lang.org</text>
+  </g>
+</svg>

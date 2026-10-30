@@ -1,116 +1,80 @@
-<h1 align="center">Andre Corugda</h1>
-
 <p align="center">
-  <b>Senior Full-Stack Engineer · Product & AI Architecture · MCP & AI Agents</b><br/>
-  9+ years building the systems companies run on — 7 the classic way, the last 2 AI-native.
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+    <img alt="Andre Corugda — Senior Full-Stack Engineer, Product & AI Architecture" src="assets/hero-light.svg" width="880">
+  </picture>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/andre-alarcon-corugda/"><img src="https://img.shields.io/badge/LinkedIn-andre--alarcon--corugda-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://burxt-lang.org/"><img src="https://img.shields.io/badge/burxt--lang.org-language-111111" alt="Burxt"/></a>
-  <a href="https://apex-js.site/"><img src="https://img.shields.io/badge/apex--js.site-framework-6366F1" alt="Apex JS"/></a>
-  <a href="https://synapse-app.site/"><img src="https://img.shields.io/badge/synapse--app.site-app%20builder-F59E0B" alt="Synapse"/></a>
+  <a href="https://www.linkedin.com/in/andre-alarcon-corugda/"><b>LinkedIn</b></a> ·
+  <a href="https://burxt-lang.org/"><b>burxt-lang.org</b></a> ·
+  <a href="https://apex-js.site/"><b>apex-js.site</b></a> ·
+  <a href="https://synapse-app.site/"><b>synapse-app.site</b></a>
 </p>
 
----
+I've spent 9+ years building the systems companies run on: CRMs, research platforms, partner portals, payroll and invoicing. Complex processes, complex data, many user roles. Seven of those years were the classic way; the last two, AI-native: I design **what the AI may touch, how a person checks its work, and how every feature becomes something an agent can safely call**.
 
-I build internal systems — CRMs, research and survey platforms, partner portals, payroll, invoicing and reporting. Complex processes, complex data, many user roles: the kind of software where a quiet mistake costs real money.
+Everything below is free and open source, giving back to the community that taught me.
 
-With AI writing more of the code, my work moved from typing every line to **designing systems**: what the AI may touch, how a person checks its work, and how every feature becomes something an agent can safely call. Because I know how to build these systems without AI, I know where AI goes wrong.
+## The Burxt stack
 
-Everything below is free and open source — giving back to the community that taught me.
+A programming language, and everything you need to build with it. Each layer is built on the one before.
 
-## 🛠️ What I'm building
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
+    <img alt="Burxt → BMX → star-burxt → Comet" src="assets/stack-light.svg" width="880">
+  </picture>
+</p>
 
-| Project | What it is | |
+<p align="center">
+  <a href="https://github.com/andrecorugda/burxt"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-burxt-dark.svg"><img alt="Burxt — contract-first programming language" src="assets/card-burxt-light.svg" width="420"></picture></a>
+  <a href="https://github.com/andrecorugda/bmx"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-bmx-dark.svg"><img alt="BMX — Burxt Markup Language" src="assets/card-bmx-light.svg" width="420"></picture></a>
+  <a href="https://github.com/andrecorugda/star-burxt"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-star-burxt-dark.svg"><img alt="star-burxt — front-end framework in Burxt" src="assets/card-star-burxt-light.svg" width="420"></picture></a>
+  <a href="https://github.com/andrecorugda/comet-code-playground"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-comet-dark.svg"><img alt="Comet — code playground" src="assets/card-comet-light.svg" width="420"></picture></a>
+</p>
+
+## AI-native web · Laravel + Filament
+
+<p align="center">
+  <a href="https://github.com/andrecorugda/apexjs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-apexjs-dark.svg"><img alt="Apex JS — AI-native meta-framework for Alpine.js" src="assets/card-apexjs-light.svg" width="420"></picture></a>
+  <a href="https://github.com/andrecorugda/synapse-app-builder"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-synapse-dark.svg"><img alt="Synapse — app builder for Laravel + Filament" src="assets/card-synapse-light.svg" width="420"></picture></a>
+  <a href="https://github.com/andrecorugda/ai-openrouter-gateway"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-ai-gateway-dark.svg"><img alt="AI OpenRouter Gateway — AI gateway for Laravel" src="assets/card-ai-gateway-light.svg" width="420"></picture></a>
+</p>
+
+<p align="center"><sub>Synapse and the AI Gateway are listed on the <a href="https://filamentphp.com/plugins/andre-corugda-synapse-app-builder">official Filament plugin directory</a>.</sub></p>
+
+## Day job
+
+**Senior Software Developer @ INS Global**: lead developer of the company's CRM platform (Laravel + React/TypeScript on Microsoft Azure), with CI/CD, a preview environment per pull request, a central AI gateway, and an MCP server that lets staff work with live company data from AI assistants under their own permissions. IT lead for ISO 27001.
+
+<sub>Before: Cloud Employee (UK) · CHuGO (Singapore) · Evidera, Associate Manager, Development · Medimix International</sub>
+
+## Recently shipped
+
+<!-- activity:start -->
+| Repository | Latest change | Date |
 |---|---|---|
-| **[Burxt](https://github.com/andrecorugda/burxt)** | A compiled, contract-first language (Rust). A function's promises live in its signature, so you can approve AI-written code without reading every line — and `burxt review` fails CI when a change quietly weakens a rule. Exact decimals, no GC. | [burxt-lang.org](https://burxt-lang.org/) |
-| **[star-burxt](https://github.com/andrecorugda/star-burxt)** | A front-end framework in Burxt. A `.sbmx` file *is* the component — markup and logic in one file, compiled to WebAssembly. No build config, no JavaScript to write. | [star.burxt-lang.org](https://star.burxt-lang.org/) |
-| **[BMX](https://github.com/andrecorugda/bmx)** | Burxt Markup Language. Markdown with one unambiguous reading and a typed hole in it — it tells you when a document is wrong instead of rendering something nearly right. | [bmx.burxt-lang.org](https://bmx.burxt-lang.org/) |
-| **[Comet](https://github.com/andrecorugda/comet-code-playground)** | One embeddable, client-only playground for Burxt, BMX and star-burxt. Its own UI is a star component. | |
-| **[Apex JS](https://github.com/andrecorugda/apexjs)** | Full-stack, AI-native meta-framework for Alpine.js: file routing, SSR, islands, one app to web, PWA and native — and every typed API route is also an MCP tool. | [apex-js.site](https://apex-js.site/) |
-| **[Synapse](https://github.com/andrecorugda/synapse-app-builder)** | Self-hosted app builder for Laravel + Filament: visual pages, typed collections + REST, an n8n-style flow engine, end-user auth (SSO/2FA), external data and an optional AI companion. | [synapse-app.site](https://synapse-app.site/) · [Filament plugin](https://filamentphp.com/plugins/andre-corugda-synapse-app-builder) |
-| **[AI OpenRouter Gateway](https://github.com/andrecorugda/ai-openrouter-gateway)** | Every AI feature in a Laravel app as a versioned, runtime-tunable integration — prompts, models, rate and cost limits, Sanctum API and a Filament admin. | [Filament plugin](https://filamentphp.com/plugins/andre-corugda-ai-openrouter-gateway) |
+| [**burxt**](https://github.com/andrecorugda/burxt) | [Two assertions permitted a superset, and the superset is where the defect lives](https://github.com/andrecorugda/burxt/commit/263a6e7e84317b545f73bd25229ab61d05222cee) | 2026-08-21 |
+| [**bmx**](https://github.com/andrecorugda/bmx) | [Two sentinels were chosen so that untouched fails, and only one of them for the…](https://github.com/andrecorugda/bmx/commit/1431a884a1e408da87f3c9b8a3e637b5971ad650) | 2026-08-21 |
+| [**star-burxt**](https://github.com/andrecorugda/star-burxt) | [`18 pages, all wrapped` over a scan that could not see a delimiter](https://github.com/andrecorugda/star-burxt/commit/98bbfd3a79bd361e288c40588b27f29ac8c7a013) | 2026-08-21 |
+| [**comet-code-playground**](https://github.com/andrecorugda/comet-code-playground) | [The console's stdout is asserted exactly, not merely contained](https://github.com/andrecorugda/comet-code-playground/commit/7779dee1683290247d9bcfae97ab0ba0d75b6d5c) | 2026-08-21 |
+| [**apexjs**](https://github.com/andrecorugda/apexjs) | [chore(site): migrate domain apexjs.site → apex-js.site (CNAME, canonicals,…](https://github.com/andrecorugda/apexjs/commit/0da7a07248063b47c8b09422b180248ffccc1d4a) | 2026-08-10 |
+| [**synapse-app-builder**](https://github.com/andrecorugda/synapse-app-builder) | [docs(changelog): stamp v1.4.0 (2026-07-13)](https://github.com/andrecorugda/synapse-app-builder/commit/76babfa39ed9a0f594f95c1933fabc49daf7eccf) | 2026-07-13 |
+<!-- activity:end -->
 
-## 💼 Day job
+<sub>Refreshed daily by a GitHub Action.</sub>
 
-**Senior Software Developer @ INS Global** — lead developer of the company CRM platform (Laravel + React/TypeScript on Microsoft Azure): CI/CD and per-PR preview environments, a central AI gateway, and an MCP server that lets staff work with live company data from AI assistants under their own permissions. IT lead for ISO 27001.
-
-Before that: Cloud Employee (UK) · CHuGO (Singapore) · Evidera — Associate Manager, Development.
-
-## 🧰 Stack
-
-**Languages**<br/>
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
-
-**Back end**<br/>
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
-![Filament](https://img.shields.io/badge/Filament-FDAE4B?logo=laravel&logoColor=black)
-![Livewire](https://img.shields.io/badge/Livewire-4E56A6?logo=livewire&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white)
-![Strapi](https://img.shields.io/badge/Strapi-4945FF?logo=strapi&logoColor=white)
-![Directus](https://img.shields.io/badge/Directus-263238?logo=directus&logoColor=white)
-
-**Front end & mobile**<br/>
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white)
-![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?logo=nuxt&logoColor=white)
-![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?logo=alpinedotjs&logoColor=black)
-![Inertia](https://img.shields.io/badge/Inertia.js-9553E9?logo=inertia&logoColor=white)
-![Refine](https://img.shields.io/badge/Refine-14141F?logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
-![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?logo=webassembly&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white)
-
-**Data**<br/>
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?logo=amazondynamodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
-
-**Cloud & DevOps**<br/>
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=white)
-![CloudFormation](https://img.shields.io/badge/CloudFormation-FF4F8B?logo=amazonwebservices&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-
-**AI**<br/>
-![MCP](https://img.shields.io/badge/Model_Context_Protocol-000000?logo=anthropic&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?logo=openai&logoColor=white)
-![OpenRouter](https://img.shields.io/badge/OpenRouter-6566F1)
-![Codex](https://img.shields.io/badge/Codex-412991?logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-555555)
-![AI Agents](https://img.shields.io/badge/AI_Agents-555555)
-
-**Testing & ways of working**<br/>
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white)
-![Pest](https://img.shields.io/badge/Pest-F472B6)
-![PHPUnit](https://img.shields.io/badge/PHPUnit-3C9CD7)
-![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
-![ISO 27001](https://img.shields.io/badge/ISO_27001-555555)
-![AWS Certified](https://img.shields.io/badge/AWS_Cloud_Practitioner-FF9900?logo=amazonwebservices&logoColor=white)
-
----
+## Stack
 
 <p align="center">
-  📍 Bacolod, Philippines · Remote · Open to conversations about AI-native products, Laravel and developer tools<br/>
-  <a href="https://www.linkedin.com/in/andre-alarcon-corugda/">LinkedIn</a> ·
-  <a href="https://burxt-lang.org/">Burxt</a> ·
-  <a href="https://apex-js.site/">Apex JS</a> ·
-  <a href="https://synapse-app.site/">Synapse</a>
+  <img alt="PHP, Laravel, TypeScript, JavaScript, React, Next.js, Vue, Nuxt, Alpine.js, Tailwind, Node.js, Rust, Java, C++" src="https://skillicons.dev/icons?i=php,laravel,ts,js,react,nextjs,vue,nuxtjs,alpinejs,tailwind,nodejs,rust,java,cpp&perline=14"><br/>
+  <img alt="MySQL, PostgreSQL, Redis, DynamoDB, Firebase, GraphQL, WebAssembly, Azure, AWS, Docker, Terraform, GitHub Actions, Linux, Vercel" src="https://skillicons.dev/icons?i=mysql,postgres,redis,dynamodb,firebase,graphql,wasm,azure,aws,docker,terraform,githubactions,linux,vercel&perline=14">
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ai-dark.svg">
+    <img alt="AI toolkit: Model Context Protocol, Claude, OpenAI, OpenRouter, Codex, RAG, AI Agents, Playwright, Jira" src="assets/ai-light.svg">
+  </picture>
 </p>

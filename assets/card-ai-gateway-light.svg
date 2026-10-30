@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="170" viewBox="0 0 420 170" role="img" aria-label="AI OpenRouter Gateway &#8212; AI gateway for Laravel">
+  <rect x=".5" y=".5" width="419" height="169" rx="14" fill="#ffffff" stroke="#d0d7de"/>
+  <rect x="1" y="14" width="4" height="40" rx="2" fill="#10b981"/>
+  <g font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <circle cx="30" cy="34" r="6" fill="#10b981"/>
+    <text x="44" y="40" font-size="19" font-weight="700" fill="#1f2328">AI OpenRouter Gateway</text>
+    <text x="24" y="66" font-size="12.5" font-weight="600" fill="#047857">AI gateway for Laravel</text>
+    <text x="24" y="92" font-size="13" fill="#59636e">Versioned, runtime-tunable AI features</text>
+    <text x="24" y="110" font-size="13" fill="#59636e">with rate and cost limits and an admin UI.</text>
+    <rect x="24" y="128" width="38" height="22" rx="11" fill="#f6f8fa" stroke="#d0d7de"/>
+    <text x="43" y="143" text-anchor="middle" font-size="11" fill="#59636e">PHP</text>
+    <rect x="68" y="128" width="84" height="22" rx="11" fill="#f6f8fa" stroke="#d0d7de"/>
+    <text x="110" y="143" text-anchor="middle" font-size="11" fill="#59636e">OpenRouter</text>
+    <rect x="158" y="128" width="117" height="22" rx="11" fill="#f6f8fa" stroke="#d0d7de"/>
+    <text x="216.5" y="143" text-anchor="middle" font-size="11" fill="#59636e">Filament plugin</text>
+  </g>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="821" height="32" viewBox="0 0 821 32" role="img" aria-label="AI toolkit: Model Context Protocol, Claude, OpenAI, OpenRouter, Codex, RAG, AI Agents, Playwright, Jira">
+  <g font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
+  <rect x="0.5" y=".5" width="180" height="30" rx="15" fill="#161b22" stroke="#30363d"/>
+  <text x="90" y="20" text-anchor="middle" font-size="12.5" fill="#e6edf3">Model Context Protocol</text>
+  <rect x="188.5" y=".5" width="67" height="30" rx="15" fill="#161b22" stroke="#30363d"/>
+  <text x="221.5" y="20" text-anchor="middle" font-size="12.5" fill="#e6edf3">Claude</text>
+  <rect x="263.5" y=".5" width="67" height="30" rx="15" fill="#161b22" stroke="#30363d"/>
+  <text x="296.5" y="20" text-anchor="middle" font-size="12.5" fill="#e6edf3">OpenAI</text>
+  <rect x="338.5" y=".5" width="95" height="30" rx="15" fill="#161b22" stroke="#30363d"/>
+  <text x="385.5" y="20" text-anchor="middle" font-size="12.5" fill="#e6edf3">OpenRouter</text>
+  <rect x="441.5" y=".5" width="60" height="30" rx="15" fill="#161b22" stroke="#30363d"/>
+  <text x="471" y="20" text-anchor="middle" font-size="12.5" fill="#e6edf3">Codex</text>
+  <rect x="509.5" y=".5" width="45" height="30" rx="15" fill="#161b22" stroke="#30363d"/>
+  <text x="531.5" y="20" text-anchor="middle" font-size="12.5" fill="#e6edf3">RAG</text>
+  <rect x="562.5" y=".5" width="88" height="30" rx="15" fill="#161b22" stroke="#30363d"/>
+  <text x="606" y="20" text-anchor="middle" font-size="12.5" fill="#e6edf3">AI Agents</text>
+  <rect x="658.5" y=".5" width="95" height="30" rx="15" fill="#161b22" stroke="#30363d"/>
+  <text x="705.5" y="20" text-anchor="middle" font-size="12.5" fill="#e6edf3">Playwright</text>
+  <rect x="761.5" y=".5" width="52" height="30" rx="15" fill="#161b22" stroke="#30363d"/>
+  <text x="787" y="20" text-anchor="middle" font-size="12.5" fill="#e6edf3">Jira</text>
+  </g>
+</svg>
