@@ -55,12 +55,12 @@ A programming language, and everything you need to build with it. Each layer is 
 <!-- activity:start -->
 | Repository | Latest change | Date |
 |---|---|---|
+| [**ai-openrouter-gateway**](https://github.com/andrecorugda/ai-openrouter-gateway) | [chore(deps): bump actions/checkout (#4)](https://github.com/andrecorugda/ai-openrouter-gateway/commit/395922bad2fd950f34e7a2adbb151d161bc06829) | 2026-11-07 |
+| [**synapse-app-builder**](https://github.com/andrecorugda/synapse-app-builder) | [chore(deps-dev): update pragmarx/google2fa requirement (#112)](https://github.com/andrecorugda/synapse-app-builder/commit/c1e65973f3be3c078d449ff1c192a2515621917c) | 2026-11-07 |
 | [**burxt**](https://github.com/andrecorugda/burxt) | [Two assertions permitted a superset, and the superset is where the defect lives](https://github.com/andrecorugda/burxt/commit/263a6e7e84317b545f73bd25229ab61d05222cee) | 2026-08-21 |
 | [**bmx**](https://github.com/andrecorugda/bmx) | [Two sentinels were chosen so that untouched fails, and only one of them for the…](https://github.com/andrecorugda/bmx/commit/1431a884a1e408da87f3c9b8a3e637b5971ad650) | 2026-08-21 |
 | [**star-burxt**](https://github.com/andrecorugda/star-burxt) | [`18 pages, all wrapped` over a scan that could not see a delimiter](https://github.com/andrecorugda/star-burxt/commit/98bbfd3a79bd361e288c40588b27f29ac8c7a013) | 2026-08-21 |
-| [**comet-code-playground**](https://github.com/andrecorugda/comet-code-playground) | [The console's stdout is asserted exactly, not merely contained](https://github.com/andrecorugda/comet-code-playground/commit/7779dee1683290247d9bcfae97ab0ba0d75b6d5c) | 2026-08-21 |
 | [**apexjs**](https://github.com/andrecorugda/apexjs) | [chore(site): migrate domain apexjs.site → apex-js.site (CNAME, canonicals,…](https://github.com/andrecorugda/apexjs/commit/0da7a07248063b47c8b09422b180248ffccc1d4a) | 2026-08-10 |
-| [**synapse-app-builder**](https://github.com/andrecorugda/synapse-app-builder) | [docs(changelog): stamp v1.4.0 (2026-07-13)](https://github.com/andrecorugda/synapse-app-builder/commit/76babfa39ed9a0f594f95c1933fabc49daf7eccf) | 2026-07-13 |
 <!-- activity:end -->
 
 <sub>Refreshed daily by a GitHub Action.</sub>
